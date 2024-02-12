@@ -14,4 +14,4 @@ wxv4869@gmail.com
 <br><br>
 
 ## 💻GitHub Stats💻
-[![wxv4869's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wxv4869&show_icons=true&count_private=true&theme=cobalt#gh-dark-mode-only)](https://github.com/wxv4869/github-readme-stats)
+[![wxv4869's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wxv4869&show_icons=true&count_private=true&theme=cobalt#gh-dark-mode-only)](https://github.com/wxv4869)
