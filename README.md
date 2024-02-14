@@ -30,7 +30,15 @@
 </div>
 <br><br>
 
+<div align=center><h2>💻GITHUB STATS</h2></center>
 <div align=center>
-  <h2>💻GITHUB STATS</h2>
-[![wxv4869's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wxv4869&show_icons=true&count_private=true&theme=cobalt#gh-dark-mode-only)](https://github.com/wxv4869/github-readme-stats)
-</div>
+	<picture>
+	  <source
+	    srcset="https://github-readme-stats.vercel.app/api?username=wxv4869&show_icons=true&theme=radical"
+	    media="(prefers-color-scheme: radical)"/>
+	  <source
+	    srcset="https://github-readme-stats.vercel.app/api?username=wxv4869&show_icons=true&theme=radical"
+	    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+	  <img src="https://github-readme-stats.vercel.app/api?username=wxv4869&show_icons=true&theme=radical" />
+	</picture>
+</center>
