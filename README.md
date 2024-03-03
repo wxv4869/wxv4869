@@ -25,7 +25,10 @@
 <div>
   <h2>📩 Contact 📩</h2>
   <a href="mailto:wxv4869@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://velog.io/@wxv4869/posts">
+    <img src="http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
   </a>
 </div>
 <br><br>
