@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&text=Jiyoon&#39;s%20GitHub%20Profile&fontSize=40&descSize=20&descAlign=80&fontAlignY=40&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&text=Jiyoon&#39;s%20GitHub%20Profile&fontSize=40&descSize=20&descAlign=80&fontAlignY=40&descAlignY=55)
 <h2>🛠 Tech Stack 🛠</h2>
 <p>Techs that I've used at least once</p>
 <div>
